@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**itsPeetah/itsPeetah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Peetah (23, he/him) and I'm a computer engineer from Milan, Italy!
 
-Here are some ideas to get you started:
+### Passionate about:
+1) Game and web development
+2) Sharing my knowledge and helping people learn
+3) Pizza
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on:
+1) A boss-rush style movement oriented action game
+2) Making my Go knowledge better
+3) Coming up with new ideas
+
+### Some things I have done:
+1) Many small indie games and games in many different languages
+2) Learned many different languages and frameworks
+3) Taught Python Programming at the National Nuclear Physics Institute
+4) Made multiple free Unity game programming tutorials
