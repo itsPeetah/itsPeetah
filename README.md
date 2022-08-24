@@ -3,6 +3,7 @@
 - I'm Peetah (23, he/him) and I'm a computer engineer from Milan, Italy!
 - [Youtube Channel](https://youtube.com/whateep)
 - [Twitch Channel](https://twitch.tv/malimore)
+- [Itch.io](https://punkpebblestudio.itch.io)
 
 ### Passionate about:
 1) Game and web development
