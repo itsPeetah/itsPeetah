@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm Peetah (23, he/him) and I'm a computer engineer from Milan, Italy!
-[Youtube Channel](https://youtube.com/whateep)
+- I'm Peetah (23, he/him) and I'm a computer engineer from Milan, Italy!
+- [Youtube Channel](https://youtube.com/whateep)
+- [Twitch Channel](https://twitch.tv/malimore)
 
 ### Passionate about:
 1) Game and web development
