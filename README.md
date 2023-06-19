@@ -19,7 +19,7 @@ My main gamedev channels are the [whateep YouTube channel](https://youtube.com/w
 
 ## Webdev 🌐
 
-I've been into web development recently and I am a sucker for NodeJS, React and TailwindCSS atm.
+I've been into web development recently and I am a sucker for NextJS, React and TailwindCSS atm.
 
 ### Currently working on:
 
