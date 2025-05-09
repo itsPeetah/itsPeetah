@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Peetah (24, he/him) and I'm a computer engineer from Milan, Italy!
+I'm Peetah (26, he/him) and I'm a computer engineer from Milan, Italy!
 I stream over at [Twitch](https://twitch.tv/malimore) and am always learning and creating new stuff!
 
 This is where I mainly keep track of all my coding adventures, but I also have a ton of repos over at [@itsPeetah-archive](https://github.com/itsPeetah-archive) to keep this place clean.
